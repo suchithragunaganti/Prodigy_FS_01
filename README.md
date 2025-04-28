@@ -1,1 +1,2 @@
 # Prodigy_FS_01
+Secure user authentication is a way to make sure only the right people can access a system or website. It checks a user's identity through a login process, usually with a username and password. To keep information safe, passwords are stored in a secure way using hashing. Extra steps like session management and user roles can add more protection. This helps prevent unauthorized access and keeps user data secure.
